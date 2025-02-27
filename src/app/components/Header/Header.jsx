@@ -98,7 +98,7 @@ export default function Header(props) {
   ];
 
   return (
-    <div className="flex-1 bg-white py-3 fixed w-full ">
+    <div className="flex-1 bg-white py-3 fixed w-full">
       <div className="flex items-center justify-between px-20">
         <Image
           src="https://superlifebioindonesia.com/wp-content/uploads/2023/07/cropped-logo-sbi.png"
